@@ -1,2 +1,1 @@
-# Ismail.js
-Ok
+alert("ok");
