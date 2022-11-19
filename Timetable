@@ -1,0 +1,78 @@
+<html>  
+<body>
+
+<h2 align="center"><hr height="100px"color="red"> TIME TABLE-March 2023-Std.x</hr></h2> 
+ <table border="5px" align="center" width="380px" cellpadding="10px" bgcolor=>
+   <tr>
+       <th bgcolor="yellow">Date(Day)</th>
+       <td bgcolor="green">Time</td>
+       <td bgcolor="red">Subject</td>
+       <tr>
+       <td>03/03/2023 (Friday)</td>
+       <td>11:00 to 2:00</td>
+       <td> Marathi</td>  
+       </tr>
+        <tr>
+          <td>06/03/2023 (Monday)</td>
+          <td>11:00 to 2:00</td>
+          <td>English</td>
+          <tr>
+          <td>09/03/2023 (Thursday)</td>
+          <td>11:00 to 1:00</td>
+          <td>Hindi</td>
+          </tr>        
+         <tr>
+            <td>13/03/2023 (Satursday)</td>
+            <td>11:00 to 1:00</td>
+            <td>Maths Part-1</td>        
+         
+         </tr>
+         <tr>
+           <td>15/03/2023 (Monday)</td>
+           <td>11:00 to 1:00</td>
+           <td>Maths Part-2</td>
+         
+         </tr>
+         <td>17/03/2023 (Wednesday)</td>
+         <td>11:00 to 1:00</td>
+         <td>Science & Technology Part-1</td>
+        </tr>  
+        <tr>
+          <td>20/03/2023 (Friday)</td>
+          <td>11:00 to 1:00</td>
+          <td>Science & Technology Part-2</td>
+        
+        </tr>
+        <tr>
+        <td>23/03/2023 (Friday)</td>
+        <td>11:00 to 1:00</td>
+        <td>History & Political Science</td>
+        
+        </tr>
+        <tr>
+         <td>25/03/2023 (Satursday)</td>
+         <td>11:00 to 1:00</td>
+         <td>Geography</td>
+        
+        </tr>
+   </tr>
+        
+ 
+ 
+ </table> 
+<style>
+}
+ body{
+      user-select: none;
+}
+ {     
+
+
+
+
+</style>
+<p><b
+>Note:</b>The Above Timetable obtained from Board's website.The Latest Timetable was given by school before the final examination</p>
+ <p>Made by;<a href="#">@coder-Raza</a></p>
+ </html>
+ 
